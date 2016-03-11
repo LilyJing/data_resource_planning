@@ -26,13 +26,13 @@
 1. **双语、多语资料：机器翻译语料库**
 
 
-	我们的爬取步骤大概是：
+	爬取步骤大概是：
  
 	1. 对当前网页进行简易判断，如果有双语嫌疑，则收录整理出来双语的正文；如果没有，弃用；
 	2. 将正文内容进行详细判断，确定是双语文本，则进行段落对齐和句子对齐，整理到语料库；如果没有，弃用；
 	3. 对当前网页的所有链接网页，重复步骤 1
 	
-	有详细介绍的我们申请的专利在这里：http://www.soopat.com/Patent/201210442487
+	有详细介绍的申请的专利在这里：http://www.soopat.com/Patent/201210442487
 	
 	参考链接：https://www.zhihu.com/question/27621722/answer/48658220
 
@@ -41,13 +41,13 @@
 	
 	@Emily L 提到了著名的根据情绪预测股市的论文：http://battleofthequants.net/wp-content/uploads/2013/03/2010-10-15_JOCS_Twitter_Mood.pdf 。
 	
-	其实我们也仿照做了国内的，不过没有预测，只是监测目前微博上大家的情绪，也是极有趣的。我们把情绪类型分为“喜悦”“愤怒”“悲伤”“恐惧”“惊奇”，并且对能体现情绪的词语进行权重的标记，从而给每天每个省份都计算出一个情绪指数。
+	仿照做了国内的，不过没有预测，只是监测目前微博上大家的情绪，也是极有趣的。把情绪类型分为“喜悦”“愤怒”“悲伤”“恐惧”“惊奇”，并且对能体现情绪的词语进行权重的标记，从而给每天每个省份都计算出一个情绪指数。
 	
 	参考链接：https://www.zhihu.com/question/27621722/answer/48658220
 	
 1. **社交数据：饮食地图**
 	
-	我们抽取出所有美食相关词语，然后基于大家提到的美食次数，做了这么一份饮食地图。你可以查看不同省份、不同性别的用户、不同的时间段对不同类别食物的关注程度。
+	抽取出所有美食相关词语，然后基于大家提到的美食次数，做了这么一份饮食地图。你可以查看不同省份、不同性别的用户、不同的时间段对不同类别食物的关注程度。
 	
 	参考链接：https://www.zhihu.com/question/27621722/answer/48658220
 	
@@ -136,7 +136,7 @@
 	
 1. [黄金头条](http://www.goldtoutiao.com)：大宗商品行情，包括技术分析方面。
 	
-2. [Investing](http://www.investing.com)：
+1. [Investing](http://www.investing.com)：
 	
 ### 美股等综合类 ###
 	
@@ -152,10 +152,10 @@
 		
 		pip install Quandl
 		
-	[96 Stocks APIs](http://www.programmableweb.com/news/96-stocks-apis-bloomberg-nasdaq-and-etrade/2013/05/22)：Bloomberg, NASDAQ and E*TRADE
+1. [96 Stocks APIs](http://www.programmableweb.com/news/96-stocks-apis-bloomberg-nasdaq-and-etrade/2013/05/22)：Bloomberg, NASDAQ and E*TRADE
 	外国网站整合的96个股票API合集
 	
-	[雅虎财经](http://finance.yahoo.com)
+1. [雅虎财经](http://finance.yahoo.com)
 
 ## 其他－非API ##
 	
