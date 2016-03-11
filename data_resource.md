@@ -50,29 +50,34 @@
 	参考链接：https://www.zhihu.com/question/27621722/answer/48658220
 	
 	访问地址：[微博用户饮食习惯分析](http://ys.8wss.com)
-
 	
 1. **交通数据：机场实时流量**
-	
+
 	![image](https://pic3.zhimg.com/adbee8589f03b1f4edd58e6c80a82fe6_b.jpg)
 
 1. **交通数据：热点城市火车票情况**
-![image](https://pic1.zhimg.com/47e2545e510ccce3d6a31827f1755c34_b.jpg)
+	
+	![image](https://pic1.zhimg.com/47e2545e510ccce3d6a31827f1755c34_b.jpg)
 
 1. **招聘数据：各种热门公司招聘中的职位数及月薪分布**
-![image](https://pic3.zhimg.com/8aa8fc1babe66f6a89e603a9ed7f60aa_b.jpg)
+
+	![image](https://pic3.zhimg.com/8aa8fc1babe66f6a89e603a9ed7f60aa_b.jpg)
 
 1. **零售数据：某公司的门店变化情况**
-![image](https://pic2.zhimg.com/cb19bace7864b680b325203ebe5ce71d_b.jpg)
+	
+	![image](https://pic2.zhimg.com/cb19bace7864b680b325203ebe5ce71d_b.jpg)
 
 1. **金融数据：对某一类金融产品的检测和跟踪**
-![image](https://pic2.zhimg.com/49d24f9303436a786074734e23d1a3f9_b.jpg)
+	
+	![image](https://pic2.zhimg.com/49d24f9303436a786074734e23d1a3f9_b.jpg)
 
 1. **汽车数据：对某车型用户数变化情况的跟踪**
-![image](https://pic3.zhimg.com/9c0eb28f3b5321578a9efa2cea7d49a2_b.jpg)
+	
+	![image](https://pic3.zhimg.com/9c0eb28f3b5321578a9efa2cea7d49a2_b.jpg)
 
 1. **对某个App的下载量跟踪**
-![image](https://pic1.zhimg.com/ace11806119acbe204b9193dfce2c378_b.jpg)
+	
+	![image](https://pic1.zhimg.com/ace11806119acbe204b9193dfce2c378_b.jpg)
 
 	参考链接：https://www.zhihu.com/question/27621722/answer/51806082
 	
@@ -97,7 +102,7 @@
 	* 	百度糯米、团购等信息
 	* 	彩票开奖
 	
-类似还有：
+	类似还有：
 	
 1.	[聚合数据](https://www.juhe.cn)
 	
